@@ -1,0 +1,2 @@
+# idaidoshop
+Static Ecommerce Website
